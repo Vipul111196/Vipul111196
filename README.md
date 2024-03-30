@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vipul Tyagi</h1>
 <h3 align="center">A passionate Full Stack AI Engineer enthusiast</h3>
 
-- 🔭 I’m currently working on [End to End Data Science Project](https://github.com/Vipul111196/Student_Performace_ML_End_to_End_Project_With_MLOps)
+<p align="left">
+  - 🔭 I’m currently working on [End to End Data Science Project](https://github.com/Vipul111196/Student_Performace_ML_End_to_End_Project_With_MLOps)<br/>
+  - 🌱 I’m currently learning **MLOPs tools and AWS Cloud**<br/>
+  - 👯 I’m looking to collaborate on [XAI4Img](https://github.com/Vipul111196/XAI4Img)<br/>
+  - 👨‍💻 All of my projects are available at [https://github.com/Vipul111196](https://github.com/Vipul111196)<br/>
+  - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Generative AI and AI in general**<br/>
+  - 📫 How to reach me **vipultyagi11.vt@gmail.com**<br/>
+</p>
 
-- 🌱 I’m currently learning **MLOPs tools and AWS Cloud**
-
-- 👯 I’m looking to collaborate on [XAI4Img](https://github.com/Vipul111196/XAI4Img)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vipul111196](https://github.com/Vipul111196)
-
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Generative AI and AI in general**
-
-- 📫 How to reach me **vipultyagi11.vt@gmail.com**
+<p align="right">
+  <img src="https://github.com/Vipul111196/Vipul111196/assets/108230953/94d2a80b-de2a-448c-90cb-16c6d62161f9" alt="Profile Image" width="200px" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

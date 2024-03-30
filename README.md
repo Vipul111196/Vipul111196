@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vipul Tyagi</h1>
 <h3 align="center">A passionate Full Stack AI Engineer enthusiast</h3>
 
+[![](https://visitcount.itsvg.in/api?id=Vipul111196&icon=1&color=12)](https://visitcount.itsvg.in)
+
 <img align="right" src="https://github.com/Vipul111196/Vipul111196/assets/108230953/94d2a80b-de2a-448c-90cb-16c6d62161f9" alt="Profile Image" width="400px" />
 
 - 🔭 I’m currently working on [End to End Data Science Project](https://github.com/Vipul111196/Student_Performace_ML_End_to_End_Project_With_MLOps)
@@ -33,6 +35,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vipul111196&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

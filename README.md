@@ -10,9 +10,9 @@
   - 📫 How to reach me **vipultyagi11.vt@gmail.com**<br/>
 </p>
 
-<p align="right">
-  <img src="https://github.com/Vipul111196/Vipul111196/assets/108230953/94d2a80b-de2a-448c-90cb-16c6d62161f9" alt="Profile Image" width="200px" />
-</p>
+
+ <img align="right" src="https://github.com/Vipul111196/Vipul111196/assets/108230953/94d2a80b-de2a-448c-90cb-16c6d62161f9" alt="Profile Image" width="400px" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

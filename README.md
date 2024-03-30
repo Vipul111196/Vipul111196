@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Tyagi</h1>
-<h3 align="center">A passionate Full Stack AI Engineer enthusiast from India</h3>
+<h3 align="center">A passionate Full Stack AI Engineer enthusiast</h3>
 
 - 🔭 I’m currently working on [End to End Data Science Project](https://github.com/Vipul111196/Student_Performace_ML_End_to_End_Project_With_MLOps)
 

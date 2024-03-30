@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vipul Tyagi</h1>
 <h3 align="center">A passionate Full Stack AI Engineer enthusiast</h3>
 
-<p align="left">
-  - 🔭 I’m currently working on [End to End Data Science Project](https://github.com/Vipul111196/Student_Performace_ML_End_to_End_Project_With_MLOps)<br/>
-  - 🌱 I’m currently learning **MLOPs tools and AWS Cloud**<br/>
-  - 👯 I’m looking to collaborate on [XAI4Img](https://github.com/Vipul111196/XAI4Img)<br/>
-  - 👨‍💻 All of my projects are available at [https://github.com/Vipul111196](https://github.com/Vipul111196)<br/>
-  - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Generative AI and AI in general**<br/>
-  - 📫 How to reach me **vipultyagi11.vt@gmail.com**<br/>
-</p>
+<img align="right" src="https://github.com/Vipul111196/Vipul111196/assets/108230953/94d2a80b-de2a-448c-90cb-16c6d62161f9" alt="Profile Image" width="400px" />
 
+- 🔭 I’m currently working on [End to End Data Science Project](https://github.com/Vipul111196/Student_Performace_ML_End_to_End_Project_With_MLOps)
 
- <img align="right" src="https://github.com/Vipul111196/Vipul111196/assets/108230953/94d2a80b-de2a-448c-90cb-16c6d62161f9" alt="Profile Image" width="400px" />
+- 🌱 I’m currently learning **MLOPs tools and AWS Cloud**
 
+- 👯 I’m looking to collaborate on [XAI4Img](https://github.com/Vipul111196/XAI4Img)
 
-<h3 align="left">Connect with me:</h3>
+- 👨‍💻 All of my projects are available at [https://github.com/Vipul111196](https://github.com/Vipul111196)
+
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Generative AI and AI in general**
+
+- 📫 How to reach me **vipultyagi11.vt@gmail.com**
+
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vipul-tyagi-069338140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul-tyagi-069338140" height="30" width="40" /></a>
 </p>

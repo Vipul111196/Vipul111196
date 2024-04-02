@@ -7,6 +7,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
+## About Me:
 
 - 🔭 I’m currently working on [End to End Data Science Project](https://github.com/Vipul111196/Student_Performace_ML_End_to_End_Project_With_MLOps)
 

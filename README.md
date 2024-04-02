@@ -1,7 +1,7 @@
 ![Header](https://github.com/Vipul111196/GithubBaner/blob/master/github-header-image%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Vipul Tyagi</h1>
-<h3 align="center">An enthusiastic Full Stack AI Engineer</h3>
+<h3 align="center">A Full Stack AI Engineer enthusiat</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Vipul111196&icon=1&color=12)](https://visitcount.itsvg.in)
 

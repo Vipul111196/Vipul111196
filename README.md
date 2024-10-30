@@ -9,11 +9,11 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on [End to End Data Science Project](https://github.com/Vipul111196/Student_Performace_ML_End_to_End_Project_With_MLOps)
+- 🔭 I’m currently working on [End to End DL - Sensor Fault Detection Project using MLOps and Data Engineering Tools](https://github.com/Vipul111196/Sensor_Fault_Detection)
 
-- 🌱 I’m currently learning **MLOPs tools and AWS Cloud**
+- 🌱 I’m currently learning **MLOPs tools**
 
-- 👯 I’m looking to collaborate on [XAI4Img](https://github.com/Vipul111196/XAI4Img)
+- 👯 I’m looking to collaborate on [End to End DL - Sensor Fault Detection Project using MLOps and Data Engineering Tools]([https://github.com/Vipul111196/XAI4Img](https://github.com/Vipul111196/Sensor_Fault_Detection))
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vipul111196](https://github.com/Vipul111196)
 

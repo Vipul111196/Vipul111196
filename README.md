@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MLOPs tools**
 
-- 👯 I’m looking to collaborate on [End to End DL - Sensor Fault Detection Project using MLOps and Data Engineering Tools]([https://github.com/Vipul111196/XAI4Img](https://github.com/Vipul111196/Sensor_Fault_Detection))
+- 👯 I’m looking to collaborate on [End to End DL - Sensor Fault Detection Project using MLOps and Data Engineering Tools](https://github.com/Vipul111196/Sensor_Fault_Detection)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vipul111196](https://github.com/Vipul111196)
 

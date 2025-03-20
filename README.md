@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Generative AI and AI in general**
 
-- 📫 How to reach me **vipultyagi11.vt@gmail.com**
+- 📫 How to reach me **tyagivipul11.vt@gmail.com**
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,11 +9,11 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on [End to End DL - Sensor Fault Detection Project using MLOps and Data Engineering Tools](https://github.com/Vipul111196/Sensor_Fault_Detection)
+- 🔭 I’m currently working on Generative AI projects specifically Agentic AI using AIOps.
 
 - 🌱 I’m currently learning **Generative AI** **MLOPs tools**
 
-- 👯 I’m looking to collaborate on [End to End DL - Sensor Fault Detection Project using MLOps and Data Engineering Tools](https://github.com/Vipul111196/Sensor_Fault_Detection)
+- 👯 I’m looking to collaborate on Generative AI related projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vipul111196](https://github.com/Vipul111196)
 

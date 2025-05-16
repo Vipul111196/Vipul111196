@@ -21,10 +21,12 @@
 - 💬 Feel free to reach out to discuss topics related to **Data Science, Machine Learning, Deep Learning, Generative AI**, and **AI research** in general.
 - 📫 Connect with me at: **[tyagivipul11.vt@gmail.com](mailto:tyagivipul11.vt@gmail.com)**
 
- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vipul-tyagi-069338140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul-tyagi-069338140" height="30" width="40" /></a>
 </p>
+
+## Github Achievements:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vipul111196&no-frame=tru&column=-1&title=-Followers" alt="GitHub Profile Trophies">

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vipul Tyagi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=500&lines=Fullstack+AI+ENGINEER;Focus+Generative+AI+Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=500&lines=Fullstack+AI+ENGINEER;Focus+=+Generative+AI" alt="Typing SVG">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Vipul111196&icon=1&color=12)](https://visitcount.itsvg.in)

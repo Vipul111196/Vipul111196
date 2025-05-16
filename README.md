@@ -13,12 +13,14 @@
 
 <img align="right" alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="margin-left: 20px;" />
 
-- 🔭 I’m currently working on **Generative AI projects**, specifically **Agentic AI** using **AIOps**.
-- 🌱 I’m currently learning **Generative AI MLOps tools**.
-- 👯 I’m looking to collaborate on **Generative AI** related projects.
-- 👨‍💻 All of my projects are available at [github.com/Vipul111196](https://github.com/Vipul111196)
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Generative AI, and AI in general**
-- 📫 How to reach me: **[tyagivipul11.vt@gmail.com](mailto:tyagivipul11.vt@gmail.com)**
+- 🔭 I’m currently researching **Knowledge Graph generation using Large Language Models (LLMs)**.
+- 🛠️ I’m also working on side projects focused on **server-side development** using the **NestJS framework**.
+- 🌱 I'm actively learning and deepening my understanding of the **NestJS backend ecosystem**.
+- 🤝 I'm open to collaborating on **Generative AI** projects and other innovative AI initiatives.
+- 👨‍💻 You can explore all my projects at [github.com/Vipul111196](https://github.com/Vipul111196).
+- 💬 Feel free to reach out to discuss topics related to **Data Science, Machine Learning, Deep Learning, Generative AI**, and **AI research** in general.
+- 📫 Connect with me at: **[tyagivipul11.vt@gmail.com](mailto:tyagivipul11.vt@gmail.com)**
+
 
 
  <h3 align="left">Connect with me:</h3>

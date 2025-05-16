@@ -21,8 +21,6 @@
 - 💬 Feel free to reach out to discuss topics related to **Data Science, Machine Learning, Deep Learning, Generative AI**, and **AI research** in general.
 - 📫 Connect with me at: **[tyagivipul11.vt@gmail.com](mailto:tyagivipul11.vt@gmail.com)**
 
-
-
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vipul-tyagi-069338140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul-tyagi-069338140" height="30" width="40" /></a>
@@ -44,6 +42,7 @@
 </div>
 
 ## 🎯 Interests
+
 - Full stack Development
 - Large Language Models (LLMs)
 - Retrieval Augmented Generation
@@ -62,9 +61,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipul111196&theme=dark&hide_border=false&v=1" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul111196&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1" alt="Top Languages" />
 </p>
-
-
-
----
-
-

@@ -19,7 +19,7 @@
 - 🤝 I'm open to collaborating on **Generative AI** projects and other innovative AI initiatives.
 - 👨‍💻 You can explore all my projects at [github.com/Vipul111196](https://github.com/Vipul111196).
 - 💬 Feel free to reach out to discuss topics related to **Data Science, Machine Learning, Deep Learning, Generative AI**, and **AI research** in general.
-- 📫 Connect with me at: **[tyagivipul11.vt@gmail.com](mailto:tyagivipul11.vt@gmail.com)**
+- 📫 Connect with me at: **[Portfolio](https://vipul111196.github.io/), [tyagivipul11.vt@gmail.com](mailto:tyagivipul11.vt@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

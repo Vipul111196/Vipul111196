@@ -14,9 +14,16 @@
 
 ### About Me
 
+<img align="right" alt="Coding" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="margin-left: 20px;" />
+
 AI Engineer building agentic systems that act, self-correct, and scale in production. Currently **Founding AI Engineer** at [Warmwind AG](https://www.warmwind.ai/) in Jena, Germany. Previously shipped AI solutions at **Robert Bosch** and **DFKI**.
 
 Master's thesis graded **1.0** (highest possible) on Adaptive RAG Frameworks. Three-time **Deutschlandstipendium** awardee.
+
+- Building production agents processing **10,000+ daily requests**
+- Managing **10M+ tokens** across multi-day agent sessions
+- Fine-tuned vision-language models to **98% accuracy**
+- Open to **AI Engineer roles** in Germany & Europe
 
 ---
 
